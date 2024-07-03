@@ -1,1 +1,5 @@
-# template_ml_project
+# Start ML Project
+
+```
+python template.py template_ml
+```
